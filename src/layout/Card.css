@@ -1,0 +1,22 @@
+.Card {
+    background-color: rgba(75,85,99,1);
+    box-shadow:  0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 125px;
+    height: 125px;
+    margin: 12px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Card__img {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.Card__name {
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+    color: #F3F4F6;
+}
